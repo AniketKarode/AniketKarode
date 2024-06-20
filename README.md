@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development/Software Development opportunites.
 - I have Completed my Post-graduation in MCA from VJTI College Mumbai.
 - I Know C, C++ and Java as a programming languages also learning JavaScript for Web Development.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently exploring ReactJS.
 - 📫 You can reach me on aniketkarode28@gmail.com
 
 <!---
