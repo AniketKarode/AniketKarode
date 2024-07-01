@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AniketKarode
-- 👀 I’m interested in Web Development/Software Development opportunites.
+- 👀 I’m interested in Web Development/Software Development.
 - I have Completed my Post-graduation in MCA from VJTI College Mumbai.
-- I Know C, C++ and Java as a programming languages also learning JavaScript for Web Development.
-- 🌱 I’m currently exploring ReactJS.
+- I have expertise in HTML,CSS, Javascript, React, Node, Typescript and Redux to build complex web applications.
+- 🌱 I’m currently exploring React ecosystem.
 - 📫 You can reach me on aniketkarode28@gmail.com
 
 <!---
